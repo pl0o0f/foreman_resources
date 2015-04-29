@@ -4,7 +4,7 @@ require "foreman_resources/version"
 
 Gem::Specification.new do |s|
   s.name        = "foreman_resources"
-  s.version     = ForemanResources::VERSION
+  s.version     = "0.1.0"
   s.authors     = ["Florent Bouron"]
   s.email       = ["florent@exafern.com"]
   s.homepage    = "https://github.com/pl0o0f/foreman_resources"
